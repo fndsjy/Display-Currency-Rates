@@ -1,0 +1,14 @@
+.source-api {
+    color: white;
+    text-align: center;
+}
+
+.source-api p {
+    line-height: .3em;
+    font-size: small;
+}
+
+.source-api a {
+    color: white;
+    text-decoration: none;
+}

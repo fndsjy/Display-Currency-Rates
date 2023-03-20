@@ -1,0 +1,10 @@
+:root {
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px;
+}
+
+body {
+    width: fit-content;
+    margin: 12em auto;
+    background-color: #D37506;
+}

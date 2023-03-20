@@ -1,0 +1,10 @@
+.table {
+    text-align: center;
+    color: white;
+    font-size: large;
+    margin-bottom: 1.2em;
+}
+
+.table tr:hover td {
+    color: white;
+}
